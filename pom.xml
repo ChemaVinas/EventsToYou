@@ -71,7 +71,7 @@ de tus amigos sobre los mismos u otros eventos.</description>
         <dependency>
             <groupId>org.springframework.hateoas</groupId>
             <artifactId>spring-hateoas</artifactId>
-            <version>0.19.0.RELEASE</version>
+            <version>1.5.5</version>
         </dependency>
         
         <dependency>
